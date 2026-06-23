@@ -131,10 +131,10 @@ class NanoXyinDev:
 <a href="https://github.com/NanoXyinDev">
   <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://t.me/NanoXyinDev">
+<a href="https://t.me/XyrooXellz">
   <img src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.email@gamerprobayu.com">
   <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
